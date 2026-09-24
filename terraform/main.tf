@@ -3,8 +3,8 @@ name = var.resource_group_name
 location = var.location
 
 tags = {
-Environment = "learning"
-managedby = "terraform"
+Environment = "Learning"
+Managedby = "Terraform"
 Project = "Aks-Gitops-Demo"
 }
 }
